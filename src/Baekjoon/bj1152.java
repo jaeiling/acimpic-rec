@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 
 public class bj1152 {
     public static void main(String[] args) {
-        Bufferedreader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();
 
         StringTokenizer st = new StringTokenizer(str, " ");
